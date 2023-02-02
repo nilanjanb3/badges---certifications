@@ -1,2 +1,2 @@
-# badges-and-certifications
-This repository is to showcase &amp; maintain my personal digital learning badges &amp; certificates
+# Badges & Certifications
+This repository is to showcase and maintain my personal digital learning **badges** &amp; **certificates**
