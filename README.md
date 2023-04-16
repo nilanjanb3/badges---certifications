@@ -4,7 +4,7 @@ This repository is to showcase and maintain my personal digital learning **badge
 
 ## Certifications
 
-Here is my hard-work & achivements, Kindly have a look ! 😊
+Here is my hard work & achievements, Kindly have a look! 😊
 
 | Certificate Name | PDF | URL |
 | ------ | ------ | ------ |
