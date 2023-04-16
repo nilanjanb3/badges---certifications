@@ -8,6 +8,7 @@ Here is my hard-work & achivements, Kindly have a look ! 😊
 
 | Certificate Name | PDF | URL |
 | ------ | ------ | ------ |
+| **Linux** | [linux/linux-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/linux/linux-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D87EAE-2D03F14DBD1E/ |
 | **Git** | [git/Git-KodeKloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/git/Git-KodeKloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D8315C-2D03F14DBD1E/ |
 | **AZ-900** | [azure/AZ-900.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/azure/AZ-900.pdf) | https://www.credly.com/badges/0baa1f80-7540-44a0-9234-947f0182e569/ |
 | **Terraform** | [terraform/terraform-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/terraform/terraform-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D065154CCD8-2D03F14DBD1E/ |
