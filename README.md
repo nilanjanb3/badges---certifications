@@ -17,6 +17,7 @@ Here is my hard work & achievements, Kindly have a look! 😊
 | **Golang** | [golang/Course-Certificate_Golang_Nilanjan-Bhattacharjee.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/golang/Course-Certificate_Golang_Nilanjan-Bhattacharjee.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D0D53122CF3-2D03F14DBD1E/ |
 | **DevOps Prerequisite** | [devops/devops-prerequisite.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/devops/devops-prerequisite.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D8A5C4-2D03F14DBD1E/ |
 | **Docker** | [docker/docker-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/docker/docker-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6E74CEA-2D03F14DBD1E/ |
+| **Shell Scripting**| [shell-scripting/shell-scripting.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/shell-scripting/shell-scripting.pdf)|https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D85990-2D03F14DBD1E/|
 
 
 
