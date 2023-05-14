@@ -21,7 +21,7 @@ Here is my hard work & achievements, Kindly have a look! 😊
 | **12-Factor-App** | [12-factor-app/12-factor-app.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/12-factor-app/12-factor-app.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2DF63F6198C8-2D03F14DBD1E/ |
 | **Terraform** | [terraform/terraform-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/terraform/terraform-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D065154CCD8-2D03F14DBD1E/ |
 | **Ansible** | [ansible/ansible-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/ansible/ansible-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D8F2B7-2D03F14DBD1E/ |
-| **Chef** | [chef/chef-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/[chef/chef-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6E725DF-2D03F14DBD1E/ |
+| **Chef** | [chef/chef-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/chef/chef-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6E725DF-2D03F14DBD1E/ |
 
 ### Cloud
 | Certificate Name | PDF | URL |
