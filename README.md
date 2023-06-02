@@ -22,6 +22,7 @@ Here is my hard work & achievements, Kindly have a look! 😊
 | **Terraform** | [terraform/terraform-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/terraform/terraform-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D065154CCD8-2D03F14DBD1E/ |
 | **Ansible** | [ansible/ansible-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/ansible/ansible-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6D8F2B7-2D03F14DBD1E/ |
 | **Chef** | [chef/chef-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/chef/chef-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2D03F6E725DF-2D03F14DBD1E/ |
+| **GCP DevOps** | [gcp-devops/gcp-devops.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/gcp-devops/gcp-devops.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2DF86FD7D7A4-2D03F14DBD1E/ |
 
 ### Cloud
 | Certificate Name | PDF | URL |
