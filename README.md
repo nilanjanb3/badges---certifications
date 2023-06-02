@@ -28,6 +28,7 @@ Here is my hard work & achievements, Kindly have a look! 😊
 | Certificate Name | PDF | URL |
 | ------ | ------ | ------ |
 | **AZ-900** | [azure/AZ-900.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/azure/AZ-900.pdf) | https://www.credly.com/badges/0baa1f80-7540-44a0-9234-947f0182e569/ |
+| **AWS Lambda** | [AWS-Lambda/kodekloud-aws-lambda.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/AWS-Lambda/kodekloud-aws-lambda.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2DF197863D2B-2D03F14DBD1E/ |
 
 
 
