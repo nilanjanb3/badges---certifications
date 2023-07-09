@@ -29,7 +29,7 @@ Here is my hard work & achievements, Kindly have a look! 😊
 | Certificate Name | PDF | URL |
 | ------ | ------ | ------ |
 | **Jenkins Essential Training** | [jenkins/CertificateOfCompletion-Jenkins-Essential-Training.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/jenkins/CertificateOfCompletion-Jenkins-Essential-Training.pdf) | https://www.linkedin.com/learning/certificates/a9566dddb3ce4f0baaa3388c5d0ce559599caf65a9ae97f5b2e3db789d8f0702 |
-| **ArgoCD** | [ArgoCD/argocd-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/ArgoCD/argocd-kodekloud.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2DECDD7DDD45-2D03F14DBD1E/ |
+| **ArgoCD** | [ArgoCD/argocd-kodekloud.pdf](https://github.com/nilanjanb3/badges-and-certifications/blob/master/ArgoCD/kodekloud-argocd.pdf) | https://kodekloud.com/certificate-verification/2D03FCDE17EC-2DECDD7DDD45-2D03F14DBD1E/ |
 
 #### Containers and Orchestration ⚓
 | Certificate Name | PDF | URL |
